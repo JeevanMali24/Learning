@@ -12,6 +12,13 @@
   <h1>accesskey</h1>
     <a href="https://en.wikipedia.org/wiki/HTML5" accesskey="h">flipcart</a><br>
     <a href="https://en.wikipedia.org/wiki/CSS" accesskey="h">css</a>
+    
+     <p><strong>note:</strong>this is a shorkcut key</p>
+    <ul>
+        <li>accesskey is used in linking</li>
+        <li>the first element with the pressed accesskey will be activated</li>
+        <li><em>accesskey</em></li>
+    </ul>
 </body>
 
 </html>

@@ -10,7 +10,7 @@
 
 <body>
     <form action="/action-pag.php">
-        <label for="select img"></label>
+        <label for="name">select name</label>
         <input type="file" id="img" name="img" accept="img/*">
         <input type="submit">
     </form>

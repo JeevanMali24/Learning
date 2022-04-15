@@ -9,7 +9,11 @@
 </head>
 
 <body>
-    
+     <form action="action-page.action">
+        <label for="fname">first name</label>
+        <input type="fname" id="fname" name="name"></input>
+        <input type="submit" value="submit" >
+    </form>
 </body>
 
 </html>

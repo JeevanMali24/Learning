@@ -1,1 +1,1 @@
-This folder include all html,css, javascript for learning.
+This folder include all html,css, javascript tutorial.

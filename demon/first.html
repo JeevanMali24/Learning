@@ -21,7 +21,18 @@
             <area shape="rect" coords="30,160,100,380" alt="Inosuke Hashibira" href="Inosuke Hashibira.html">
             <area shape="rect" coords="110,160,150,380" alt="Zenitsu Agatsuma" href="Zenitsu Agatsuma.html">
             <area shape="rect" coords="" alt="" href="">
-        </map>
+        </map><br>
+
+        <canvas id="myCanvas">
+            Your browser does not support the canvas tag.
+            </canvas>
+            
+            <script>
+            var canvas = document.getElementById("myCanvas");
+            var ctx = canvas.getContext("2d");
+            ctx.fillStyle = "#00ff00";
+            ctx.fillRect(0, 0, 80, 80);
+            </script>
 </body>
 </head>
 
